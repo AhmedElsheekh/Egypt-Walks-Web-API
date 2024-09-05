@@ -1,0 +1,15 @@
+D:\My Projects\EgyptWalks\EgyptWalks.Service\bin\Debug\net8.0\EgyptWalks.Service.deps.json
+D:\My Projects\EgyptWalks\EgyptWalks.Service\bin\Debug\net8.0\EgyptWalks.Service.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Service\bin\Debug\net8.0\EgyptWalks.Service.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Service\bin\Debug\net8.0\EgyptWalks.Core.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Service\bin\Debug\net8.0\EgyptWalks.Core.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.csproj.AssemblyReference.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.AssemblyInfoInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.AssemblyInfo.cs
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.csproj.CoreCompileInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWal.4BF22B5F.Up2Date
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\refint\EgyptWalks.Service.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\EgyptWalks.Service.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Service\obj\Debug\net8.0\ref\EgyptWalks.Service.dll

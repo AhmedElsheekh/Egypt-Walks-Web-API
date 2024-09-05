@@ -1,0 +1,12 @@
+D:\My Projects\EgyptWalks\EgyptWalks.Core\bin\Debug\net8.0\EgyptWalks.Core.deps.json
+D:\My Projects\EgyptWalks\EgyptWalks.Core\bin\Debug\net8.0\EgyptWalks.Core.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Core\bin\Debug\net8.0\EgyptWalks.Core.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.csproj.AssemblyReference.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.AssemblyInfoInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.AssemblyInfo.cs
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.csproj.CoreCompileInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\refint\EgyptWalks.Core.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\EgyptWalks.Core.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Core\obj\Debug\net8.0\ref\EgyptWalks.Core.dll

@@ -1,0 +1,15 @@
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\bin\Debug\net8.0\EgyptWalks.Repository.deps.json
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\bin\Debug\net8.0\EgyptWalks.Repository.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\bin\Debug\net8.0\EgyptWalks.Repository.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\bin\Debug\net8.0\EgyptWalks.Core.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\bin\Debug\net8.0\EgyptWalks.Core.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.csproj.AssemblyReference.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.AssemblyInfoInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.AssemblyInfo.cs
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.csproj.CoreCompileInputs.cache
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWal.770370BC.Up2Date
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\refint\EgyptWalks.Repository.dll
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\EgyptWalks.Repository.pdb
+D:\My Projects\EgyptWalks\EgyptWalks.Repository\obj\Debug\net8.0\ref\EgyptWalks.Repository.dll

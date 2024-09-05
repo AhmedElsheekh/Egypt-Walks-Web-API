@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "cctxwlpFrKKaD0f5j/J8/gvw1zEMVi6iL54ZP7eSYvA=",
+  "Source": "EgyptWalks.API",
+  "BasePath": "_content/EgyptWalks.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EgyptWalks.API\\wwwroot",
+      "Source": "EgyptWalks.API",
+      "ContentRoot": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\",
+      "BasePath": "_content/EgyptWalks.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\Files\\Images\\Girl Image.png",
+      "SourceId": "EgyptWalks.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\",
+      "BasePath": "_content/EgyptWalks.API",
+      "RelativePath": "Files/Images/Girl Image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\Girl Image.png"
+    },
+    {
+      "Identity": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\Files\\Images\\Test Image.png",
+      "SourceId": "EgyptWalks.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\",
+      "BasePath": "_content/EgyptWalks.API",
+      "RelativePath": "Files/Images/Test Image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Images\\Test Image.png"
+    }
+  ]
+}

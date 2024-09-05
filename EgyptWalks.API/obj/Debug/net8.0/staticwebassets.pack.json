@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\Files\\Images\\Girl Image.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Girl Image.png"
+    },
+    {
+      "Id": "D:\\My Projects\\EgyptWalks\\EgyptWalks.API\\wwwroot\\Files\\Images\\Test Image.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Test Image.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EgyptWalks.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EgyptWalks.API.props",
+      "PackagePath": "build\\EgyptWalks.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EgyptWalks.API.props",
+      "PackagePath": "buildMultiTargeting\\EgyptWalks.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EgyptWalks.API.props",
+      "PackagePath": "buildTransitive\\EgyptWalks.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
